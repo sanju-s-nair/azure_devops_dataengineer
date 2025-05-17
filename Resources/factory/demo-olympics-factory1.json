@@ -1,0 +1,9 @@
+{
+	"name": "demo-olympics-factory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dca2d9ee-426e-44ea-a512-de26d7a67767",
+		"tenantId": "a635adc2-9f34-4555-bedc-478f3a509d6c"
+	}
+}
